@@ -1,3 +1,3 @@
-# Demo
+# Brushing Up on Git Demo
 
-Some description
+Using freecode camp

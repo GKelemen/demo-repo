@@ -2,8 +2,6 @@
 
 Using freecode camp
 
-## subheader
+## video
 
-watch youtube tutorial
-
-something
+## other resources
